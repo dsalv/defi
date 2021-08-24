@@ -2,6 +2,8 @@
 
 1. [venture_capital_in_defi.md](reports/venture_capital_in_defi.md) - Venture Capital in Decentralized Finance - quick insights
 
+![initforthetech.png](reports/assets/initforthetech.png)
+
 Directory structure:
 
 ```bash
