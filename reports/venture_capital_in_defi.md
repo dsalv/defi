@@ -41,7 +41,7 @@ Notes: When markets are over-heated founders raise more funds with inflated valu
 
 9. Decentralized governance will play an even larger role in protocol development in the future. Increased financial inclusion of small investors is paramount for the eventual success of decentralization.
 
-10. To understand the current state of the market we identified the largest funds involved in crypto by their size using the data disclosed on Crunchbase. Mastodonts of traditional markets are moving into crypto.
+10. To understand the current state of the market we identified the largest funds involved in crypto by their size using the data disclosed on Crunchbase. Mastodons of traditional markets are moving into crypto.
 
 ![graph3](assets/graph3.png)
 
