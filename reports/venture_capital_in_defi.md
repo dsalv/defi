@@ -12,7 +12,7 @@ We analyzed data about VCs in decentralized finance to answer our questions. Her
 
 
 <p align="center">
-  <img width="400" height="250" src="assets/graph1.png">
+  <img src="assets/graph1.png">
 </p>
 
 Notes: When markets are over-heated founders raise more funds with inflated valuations.
@@ -26,7 +26,7 @@ Notes: When markets are over-heated founders raise more funds with inflated valu
 3. Venture capital investments in the crypto space accelerated in the last 3 years. 80%. of all the investments were attracted since 2017.
 
 <p align="center">
-  <img width="400" height="250" src="assets/graph2.png">
+  <img src="assets/graph2.png">
 </p>
 
 4. A small group of investors that include Pantera Capital, Digital Currency Group, Naval Ravikant started investing in blockchain startups back in 2014 which is considered early in crypto terms.
