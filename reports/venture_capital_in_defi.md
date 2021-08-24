@@ -10,17 +10,24 @@ We analyzed data about VCs in decentralized finance to answer our questions. Her
 
 1. Venture capitalists are not safe from FOMO (Fear of Missing Out). The largest number of investments in crypto by venture capitalists was made during the periods when crypto was hyped the most.
 
-![graph2](assets/graph1.png)
+
+<p align="center">
+  <img width="400" height="250" src="assets/graph1.png">
+</p>
 
 Notes: When markets are over-heated founders raise more funds with inflated valuations.
 
 2. Some VC funds are attracted by asymmetric returns, but not by the prospects of the blockchain technology itself. To minimize their portfolio risk from the volatility of the crypto assets VC firms need to gradually sell their positions even before protocols find their market fits.
 
-![initforthetech.png](assets/initforthetech.png)
+<p align="center">
+  <img width="300" height="320" src="assets/initforthetech.png">
+</p>
 
 3. Venture capital investments in the crypto space accelerated in the last 3 years. 80%. of all the investments were attracted since 2017.
 
-![graph2](assets/graph2.png)
+<p align="center">
+  <img width="400" height="250" src="assets/graph2.png">
+</p>
 
 4. A small group of investors that include Pantera Capital, Digital Currency Group, Naval Ravikant started investing in blockchain startups back in 2014 which is considered early in crypto terms.
 
