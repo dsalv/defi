@@ -2,7 +2,9 @@
 
 1. [venture_capital_in_defi.md](reports/venture_capital_in_defi.md) - Venture Capital in Decentralized Finance - quick insights
 
-![initforthetech.png](reports/assets/initforthetech.png)
+<p align="center">
+  <img width="300" height="320" src="reports/assets/initforthetech.png">
+</p>
 
 Directory structure:
 
